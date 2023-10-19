@@ -2,7 +2,7 @@
 
 `upload.ai` is a project that allows users to upload videos (.mp4) and generate transcriptions of the video content and create responses based on predefined prompts. This is useful for generating titles and descriptions for YouTube videos.
 
-This project was developed during the **[Next Level Week Together](https://www.rocketseat.com.br/nlw)**.
+This project was developed during the **[Next Level Week](https://www.rocketseat.com.br/nlw)**.
 
 **Originally the project stack was different. They created the front-end and back-end separated using Vite and Fastify. But for study proporses I used only Next.js 13 for both.**
 
