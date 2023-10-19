@@ -4,7 +4,7 @@
 
 This project was developed during the **[Next Level Week Together](https://www.rocketseat.com.br/nlw)**.
 
-`Originally the project stack was different. They created the front-end and back-end separated using Vite and Fastify. But for study proporses I used only Next.js 13 for both.`
+**Originally the project stack was different. They created the front-end and back-end separated using Vite and Fastify. But for study proporses I used only Next.js 13 for both.**
 
 ![Project Cover](https://raw.githubusercontent.com/lui7henrique/upload-ai/main/cover.jpeg)
 
@@ -13,9 +13,7 @@ This project was developed during the **[Next Level Week Together](https://www.r
 - [x] Creation of responses based on custom prompts
 
 ## Technologies
-
-**Front-end**: 
-- [React](https://reactjs.org/)
+- [Nextjs](https://nextjs.org/)
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [axios](https://axios-http.com/)
