@@ -72,7 +72,7 @@ This project was developed during the **[Next Level Week](https://www.rocketseat
 
 ## Contact
 
-Pedro Renan - Software Developer
+Pedro Renan - Front End Developer
 
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/pedro-renan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 2vw" target="_blank"></a>
